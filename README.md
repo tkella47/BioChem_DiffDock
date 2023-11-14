@@ -1,8 +1,7 @@
 
 # DiffDock Protocol For Biochem course 
 
-**[Original Paper](https://arxiv.org/abs/2210.01776)**
-
+**[Original Paper](https://arxiv.org/abs/2210.01776)**\
 **[DiffDock GitHub](https://github.com/gcorso/DiffDock)**
 
 ### Prerequisites
@@ -10,9 +9,9 @@
  - [ ] Obtain [LigPlot License](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/applicence.html)
  - [ ] Install [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/) 
  - [ ] Open Conda Terminal 
- - [ ] Create folder C:\tmp (Windows) or /tmp (Mac/Linux)
-	Linux/Mac Users: Run 	<code> mkdir /tmp </code>
-	Windows Users: Run <code> mkdir C:\tmp </code>
+ - [ ] Create folder C:\tmp (Windows) or /tmp (Mac/Linux)\
+	Linux/Mac Users: Run <code>mkdir /tmp </code>\
+	Windows Users: Run <code>mkdir C:\tmp </code>
  - [ ] Download [Chimera](https://www.cgl.ucsf.edu/chimerax/download.html)
  - [ ] Download [LigPlot](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/download2.html)
 
@@ -34,7 +33,7 @@ In Chimera(X), open the 2hyy_single.pdb
 
 Then open rank#.sdf
 
-(Sidenote, you can see all the test ligand positions by opening rank#_reversediffusion)
+(Sidenote, you can see all the test ligand positions by opening rank#_reversediffusion)\
 Take a moment to investigate the beauty that is biochemistry
 
 Under File, Click save. Alternatively Ctrl(Windows/Linux)+S or Command(Mac)+S
