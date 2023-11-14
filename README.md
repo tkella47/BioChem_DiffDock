@@ -17,7 +17,7 @@
 
  - [ ] Open LigPlot (ensure the tmp folder path is set correctly)
 #### Optional
- - [ ] Run <code> git clone https://github.com/tkella47/BioChem_DiffDock.git </code> to get all the files you need to download.\
+ - [ ] Run <code> git clone https://github.com/tkella47/BioChem_DiffDock.git </code> to get the pdb and python files you need to download.\
 	[Requires Git]
 #### Troubleshooting:
 Is LigPlot not opening?
