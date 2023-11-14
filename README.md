@@ -16,6 +16,9 @@
  - [ ] Download [LigPlot](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/download2.html)
 
  - [ ] Open LigPlot (ensure the tmp folder path is set correctly)
+#### Optional
+ - [ ] Run <code> git clone https://github.com/tkella47/BioChem_DiffDock.git </code> to get all the files you need to download.\
+	[Requires Git]
 #### Troubleshooting:
 Is LigPlot not opening?
  - [ ] You may need to install [Java](https://www.java.com/en/download/help/download_options.html)
