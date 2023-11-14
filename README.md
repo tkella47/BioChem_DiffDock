@@ -66,7 +66,7 @@ python process_ligand_protein PATH_TO_YOUR_SAVE_FILE.pdb --output_path DESIRED_N
 ## Viewing in LigPlot
 **Open the DiffDocked PDB file first**
 
-Make sure LigPlot is open
+Make sure LigPlot is open \
 Click File: Open : \
 		Browse : Open diffdocked.pdb
 
