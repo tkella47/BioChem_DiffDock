@@ -64,13 +64,17 @@ python process_ligand_protein PATH_TO_YOUR_SAVE_FILE.pdb --output_path DESIRED_N
 ```
 
 ## Viewing in LigPlot
-Make sure LigPlot is open
-Click File: Open : Browse
 **Open the DiffDocked PDB file first**
 
+Make sure LigPlot is open
+Click File: Open : \
+		Browse : Open diffdocked.pdb
+
+
 #### Compare to Crystal Structure
-Download [2HYY.pdb](https://files.rcsb.org/download/2HYY.pdb)
-Click File: Open: Browse : 2hyy.pdb
+Download [2HYY.pdb](https://files.rcsb.org/download/2HYY.pdb)\
+Click File: Open: \
+		Browse : Open 2hyy.pdb
 
 In the bottom right hand corner, you can split the screen to see the difference between the structures
 
