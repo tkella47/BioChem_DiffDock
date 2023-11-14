@@ -79,7 +79,7 @@ Download [2HYY.pdb](https://files.rcsb.org/download/2HYY.pdb)\
 Click File: Open: \
 		Browse : Open 2hyy.pdb
 
-In the bottom right hand corner, you can split the screen to see the difference between the structures
+In the bottom right hand corner, you can split the screen to see the difference between the docked ligands
 
 
 
