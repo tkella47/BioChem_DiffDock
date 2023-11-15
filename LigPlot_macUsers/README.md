@@ -1,7 +1,7 @@
-
-1. Download [LigPlot+](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/) 
+# Mac Users Help
+1. Download [LigPlot+](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/)  \
 You will need an academic license to do so.
-2. Download [Java](https://www.java.com/en/download/manual.jsp)
+2. Download [Java](https://www.java.com/en/download/manual.jsp) \
 	Warning: You need to determine if you have an M1/2 Chip (Download ARM Java) or a Intel Chip (then download x64)
 3. After you finish download LigPlus, find the zip folder in finder.
 ![Picture of Save Screen](https://github.com/tkella47/BioChem_DiffDock/blob/main/LigPlot_macUsers/screenshot_1.png?raw=true)
@@ -12,10 +12,10 @@ You will need an academic license to do so.
  ```
  java -cp /Users/ -jar /Users/LigPlus/LigPlus.jar
  ```
-7.  When you first open LigPlus, you will be brought to a window titled “Paths and Directories”
+7.  When you first open LigPlus, you will be brought to a window titled “Paths and Directories” \
 Here, ensure that in Temporary Directory, it says <code>/tmp</code> and NOT <code>C:\tmp</code>
 
-8. After downloading the proper Miniconda installer from Github link, go to downloads folder and make a New Terminal at Folder:
+8. After downloading the proper Miniconda installer from Github link, go to downloads folder and make a New Terminal at Folder: \
 Run 
 ```
 bash Miniconda3-latest-MacOSX-x86_64.sh
