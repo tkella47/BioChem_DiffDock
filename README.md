@@ -24,7 +24,7 @@
 Is LigPlot not opening?
  - [ ] You may need to install [Java](https://www.java.com/en/download/help/download_options.html) \
        **Warning: Mac Users** \
-       There is an x64 Java and ARM64 Java. This relates to the chip on your computer \
+       There is an x64 Java and ARM64 Java. This relates to the chip on your computer. \
        If you have an M1 or M2 chip, ARM is for you. Otherwise, download x64 Java.\
        Don't know how to check? [Visit](https://stackoverflow.com/a/72906979/20522929)
 
