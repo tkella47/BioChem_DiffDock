@@ -2,35 +2,67 @@
 ```
 CC1=C(NC2=NC=CC(C3=CN=CC=C3)=N2)C=C(NC(C4=CC=C(CN5CCN(C)CC5)C=C4)=O)C=C1
 ```
-2. Compound 1 (Assessment 1):
-```
-CC1=CC(NC2=NC=CC(C3CCCCC3)=N2)=C(CC(C)(C)C)C=C1
-```
-3. Compound 2 (Assessment 1):
-```
-CC1=CC(NC2=NC=CC(C3CCCCC3)=N2)=C(CC(C)=O)C=C1
-```
-4. Compound 3 (Assessment 1):
-```
-O=C(C1=CC=CC=C1)OC2=CC(NC3=NC=CC([N+]([O-])=O)=N3)=C(CC(C)(C)C)C=C2
-```
-5. Compound 4  (Assessment 1):
-```
-C=C(/C=C\C)C1=NC(NC2=C(CC(C)=O)C=CC(OC(C3=CC=CC=C3)=O)=C2)=NC=C1
-```
-6. Compound 5:
-```
-CC1=C(NC2=NC=CC(C3=CN=C(C(N)=O)C=C3)=N2)C=C(NC(C4=CC=C(CC5CCC(CC(O)=O)CC5)C=C4)=O)C=C1
-```
-7. Compound 6:
-```
-O=C(C1=CC=C(CN2CCN(CC(O)=O)CC2)C=C1)NC3=CC(NC4=NC=CC(C5=CC=C(C(N)=O)C=C5)=N4)=C(CC(C)(C)C)C=C3
-```
-8. Compound 7:
-```
-CC1=C(NC2=NC=CC(C(C=C3)=CC4=C3C=CN4)=N2)C=C(NC(C5=CC=C(CN6CCN(C)CC6)C=C5)=O)C=C1
-```
-9. Compound 8:
-```
-O=C(C1=CC=CC=C1)OC2=CC(NC3=NC=CC(C(C=C4)=CC5=C4C=CN5)=N3)=C(CC(O)=O)C=C2
-```
+
+[//]: # (2. Compound 1 &#40;Assessment 1&#41;:)
+
+[//]: # (```)
+
+[//]: # (CC1=CC&#40;NC2=NC=CC&#40;C3CCCCC3&#41;=N2&#41;=C&#40;CC&#40;C&#41;&#40;C&#41;C&#41;C=C1)
+
+[//]: # (```)
+
+[//]: # (3. Compound 2 &#40;Assessment 1&#41;:)
+
+[//]: # (```)
+
+[//]: # (CC1=CC&#40;NC2=NC=CC&#40;C3CCCCC3&#41;=N2&#41;=C&#40;CC&#40;C&#41;=O&#41;C=C1)
+
+[//]: # (```)
+
+[//]: # (4. Compound 3 &#40;Assessment 1&#41;:)
+
+[//]: # (```)
+
+[//]: # (O=C&#40;C1=CC=CC=C1&#41;OC2=CC&#40;NC3=NC=CC&#40;[N+]&#40;[O-]&#41;=O&#41;=N3&#41;=C&#40;CC&#40;C&#41;&#40;C&#41;C&#41;C=C2)
+
+[//]: # (```)
+
+[//]: # (5. Compound 4  &#40;Assessment 1&#41;:)
+
+[//]: # (```)
+
+[//]: # (C=C&#40;/C=C\C&#41;C1=NC&#40;NC2=C&#40;CC&#40;C&#41;=O&#41;C=CC&#40;OC&#40;C3=CC=CC=C3&#41;=O&#41;=C2&#41;=NC=C1)
+
+[//]: # (```)
+
+[//]: # (6. Compound 5:)
+
+[//]: # (```)
+
+[//]: # (CC1=C&#40;NC2=NC=CC&#40;C3=CN=C&#40;C&#40;N&#41;=O&#41;C=C3&#41;=N2&#41;C=C&#40;NC&#40;C4=CC=C&#40;CC5CCC&#40;CC&#40;O&#41;=O&#41;CC5&#41;C=C4&#41;=O&#41;C=C1)
+
+[//]: # (```)
+
+[//]: # (7. Compound 6:)
+
+[//]: # (```)
+
+[//]: # (O=C&#40;C1=CC=C&#40;CN2CCN&#40;CC&#40;O&#41;=O&#41;CC2&#41;C=C1&#41;NC3=CC&#40;NC4=NC=CC&#40;C5=CC=C&#40;C&#40;N&#41;=O&#41;C=C5&#41;=N4&#41;=C&#40;CC&#40;C&#41;&#40;C&#41;C&#41;C=C3)
+
+[//]: # (```)
+
+[//]: # (8. Compound 7:)
+
+[//]: # (```)
+
+[//]: # (CC1=C&#40;NC2=NC=CC&#40;C&#40;C=C3&#41;=CC4=C3C=CN4&#41;=N2&#41;C=C&#40;NC&#40;C5=CC=C&#40;CN6CCN&#40;C&#41;CC6&#41;C=C5&#41;=O&#41;C=C1)
+
+[//]: # (```)
+
+[//]: # (9. Compound 8:)
+
+[//]: # (```)
+
+[//]: # (O=C&#40;C1=CC=CC=C1&#41;OC2=CC&#40;NC3=NC=CC&#40;C&#40;C=C4&#41;=CC5=C4C=CN5&#41;=N3&#41;=C&#40;CC&#40;O&#41;=O&#41;C=C2)
+
+[//]: # (```)
