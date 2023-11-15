@@ -16,6 +16,7 @@
  - [ ] Download [LigPlot](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/download2.html)
 
  - [ ] Open LigPlot (ensure the tmp folder path is set correctly)
+ - [ ] Download [2hyy_single.pdb](https://github.com/tkella47/BioChem_DiffDock/blob/main/2hyy_single.pdb) from this reposistory
 #### Optional
  - [ ] Run <code> git clone https://github.com/tkella47/BioChem_DiffDock.git </code> to get the pdb and python files you need to download.\
 	[Requires Git]
