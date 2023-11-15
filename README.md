@@ -30,7 +30,7 @@ Is LigPlot not opening?
 
 ## Obtaining Protein-Ligand Docked Poses Using DiffDock
 1. Navigate to [DiffDock HuggingFace Space](https://huggingface.co/spaces/simonduerr/diffdock)
-2. Upload the 2hyy_single.pdb and paste in the ligand SMILES sequence
+2. Upload the 2hyy_single.pdb and paste in the [ligand SMILES sequence](https://github.com/tkella47/BioChem_DiffDock/tree/main/ligands)
 3. Reduce number of samples to 10.
 4. Download the result.
 5. The results will be in zipped file. Extract them.
