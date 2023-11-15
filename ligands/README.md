@@ -1,9 +1,36 @@
-1. Compound A : CC1=C(NC2=NC=CC(C3=CN=CC=C3)=N2)C=C(NC(C4=CC=C(CN5CCN(C)CC5)C=C4)=O)C=C1
-2. Compound 1 (Assessment 1): CC1=CC(NC2=NC=CC(C3CCCCC3)=N2)=C(CC(C)(C)C)C=C1
-3. Compound 2 (Assessment 1): CC1=CC(NC2=NC=CC(C3CCCCC3)=N2)=C(CC(C)=O)C=C1
-4. Compound 3 (Assessment 1): O=C(C1=CC=CC=C1)OC2=CC(NC3=NC=CC([N+]([O-])=O)=N3)=C(CC(C)(C)C)C=C2
-5. Compound 4  (Assessment 1): C=C(/C=C\C)C1=NC(NC2=C(CC(C)=O)C=CC(OC(C3=CC=CC=C3)=O)=C2)=NC=C1
-6. Compound 5: CC1=C(NC2=NC=CC(C3=CN=C(C(N)=O)C=C3)=N2)C=C(NC(C4=CC=C(CC5CCC(CC(O)=O)CC5)C=C4)=O)C=C1
-7. Compound 6: O=C(C1=CC=C(CN2CCN(CC(O)=O)CC2)C=C1)NC3=CC(NC4=NC=CC(C5=CC=C(C(N)=O)C=C5)=N4)=C(CC(C)(C)C)C=C3
-8. Compound 7: CC1=C(NC2=NC=CC(C(C=C3)=CC4=C3C=CN4)=N2)C=C(NC(C5=CC=C(CN6CCN(C)CC6)C=C5)=O)C=C1
-9. Compound 8: O=C(C1=CC=CC=C1)OC2=CC(NC3=NC=CC(C(C=C4)=CC5=C4C=CN5)=N3)=C(CC(O)=O)C=C2
+1. Compound A 
+```
+CC1=C(NC2=NC=CC(C3=CN=CC=C3)=N2)C=C(NC(C4=CC=C(CN5CCN(C)CC5)C=C4)=O)C=C1
+```
+2. Compound 1 (Assessment 1):
+```
+CC1=CC(NC2=NC=CC(C3CCCCC3)=N2)=C(CC(C)(C)C)C=C1
+```
+3. Compound 2 (Assessment 1):
+```
+CC1=CC(NC2=NC=CC(C3CCCCC3)=N2)=C(CC(C)=O)C=C1
+```
+4. Compound 3 (Assessment 1):
+```
+O=C(C1=CC=CC=C1)OC2=CC(NC3=NC=CC([N+]([O-])=O)=N3)=C(CC(C)(C)C)C=C2
+```
+5. Compound 4  (Assessment 1):
+```
+C=C(/C=C\C)C1=NC(NC2=C(CC(C)=O)C=CC(OC(C3=CC=CC=C3)=O)=C2)=NC=C1
+```
+6. Compound 5:
+```
+CC1=C(NC2=NC=CC(C3=CN=C(C(N)=O)C=C3)=N2)C=C(NC(C4=CC=C(CC5CCC(CC(O)=O)CC5)C=C4)=O)C=C1
+```
+7. Compound 6:
+```
+O=C(C1=CC=C(CN2CCN(CC(O)=O)CC2)C=C1)NC3=CC(NC4=NC=CC(C5=CC=C(C(N)=O)C=C5)=N4)=C(CC(C)(C)C)C=C3
+```
+8. Compound 7:
+```
+CC1=C(NC2=NC=CC(C(C=C3)=CC4=C3C=CN4)=N2)C=C(NC(C5=CC=C(CN6CCN(C)CC6)C=C5)=O)C=C1
+```
+9. Compound 8:
+```
+O=C(C1=CC=CC=C1)OC2=CC(NC3=NC=CC(C(C=C4)=CC5=C4C=CN5)=N3)=C(CC(O)=O)C=C2
+```
