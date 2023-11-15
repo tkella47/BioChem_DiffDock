@@ -4,9 +4,9 @@ You will need an academic license to do so.
 2. Download [Java](https://www.java.com/en/download/manual.jsp)
 	Warning: You need to determine if you have an M1/2 Chip (Download ARM Java) or a Intel Chip (then download x64)
 3. After you finish download LigPlus, find the zip folder in finder.
-Image
+![Picture of Save Screen](https://github.com/tkella47/BioChem_DiffDock/blob/main/LigPlot_macUsers/screenshot_1.png?raw=true)
 4. Double click on the zip file, and move the resulting LigPlus folder into the Users folder:
-Image
+![Picture of Save Screen](https://github.com/tkella47/BioChem_DiffDock/blob/main/LigPlot_macUsers/upscaled_screenshot_2.png?raw=true)
 5. Once you know that LigPlus is in your Users folder, open up “Terminal” 
 6. Copy and paste the following into terminal:
  ```
