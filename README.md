@@ -57,6 +57,7 @@ Give your file a name and save it.
 Next download [process_ligand_protein.py](https://github.com/tkella47/BioChem_DiffDock/blob/main/process_ligand_protein.py)
 
 Navigate to the same directory as process_ligand_protein.py
+Ensure that process_ligand_protein.py and the pdb from the previous step are in the same folder.
 
 Then run 
 ```
@@ -64,11 +65,12 @@ python process_ligand_protein PATH_TO_YOUR_SAVE_FILE.pdb
 ```
 This will save a file <code>diffdocked.pdb</code> in the same place as the python file.
 
+If the above code does not work, run the code below 
 Additionally, if you wish to provide a different name or path for your file
-simply run
+simply run.
 
 ```
-python process_ligand_protein PATH_TO_YOUR_SAVE_FILE.pdb --output_path DESIRED_NAME_OR_PATH
+python process_ligand_protein PATH_TO_YOUR_SAVE_FILE.pdb --output_path DESIRED_NAME_OR_PATH/diffdocked.pdb
 ```
 
 ## Viewing in LigPlot
