@@ -20,3 +20,12 @@ Run
 ```
 bash Miniconda3-latest-MacOSX-x86_64.sh
 ```
+**Warning x86 indicates an Intel chip** \
+Your Mac may have an M1 or M2 chip, which is a different kind of chip.\
+Follow these instructions
+```
+mkdir -p ~/miniconda3
+curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh -o ~/miniconda3/miniconda.sh
+bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+rm -rf ~/miniconda3/miniconda.sh
+```
