@@ -27,6 +27,8 @@ Is LigPlot not opening?
        There is an x64 Java and ARM64 Java. This relates to the chip on your computer. \
        If you have an M1 or M2 chip, ARM is for you. Otherwise, download x64 Java.\
        Don't know how to check? [Visit](https://stackoverflow.com/a/72906979/20522929)
+- [ ] For Mac users, See: [Protocols_ .pdf](https://github.com/tkella47/BioChem_DiffDock/files/13385017/Protocols_.pdf)
+
 
 ## Obtaining Protein-Ligand Docked Poses Using DiffDock
 1. Navigate to [DiffDock HuggingFace Space](https://huggingface.co/spaces/simonduerr/diffdock)
