@@ -63,7 +63,7 @@ Ensure that process_ligand_protein.py and the pdb from the previous step are in 
 
 Then run 
 ```
-python process_ligand_protein PATH_TO_YOUR_SAVE_FILE.pdb
+python process_ligand_protein.py PATH_TO_YOUR_SAVE_FILE.pdb
 ```
 This will save a file <code>diffdocked.pdb</code> in the same place as the python file.
 
