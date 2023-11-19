@@ -3,6 +3,8 @@
 
 **[Original Paper](https://arxiv.org/abs/2210.01776)**\
 **[DiffDock GitHub](https://github.com/gcorso/DiffDock)**
+[FlowChart_ForToolsUse.pdf](https://github.com/tkella47/BioChem_DiffDock/files/13404031/AssessmentIIFlowChart.2.pdf)
+
 
 ### Prerequisites
 
