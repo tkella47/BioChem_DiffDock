@@ -75,7 +75,7 @@ Additionally, if you wish to provide a different name or path for your file
 simply run.
 
 ```
-python process_ligand_protein PATH_TO_YOUR_SAVE_FILE.pdb --output_path DESIRED_NAME_OR_PATH/diffdocked.pdb
+python process_ligand_protein.py PATH_TO_YOUR_SAVE_FILE.pdb --output_path DESIRED_NAME_OR_PATH/diffdocked.pdb
 ```
 
 ## Viewing in LigPlot
